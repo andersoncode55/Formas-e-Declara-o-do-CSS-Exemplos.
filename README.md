@@ -6,7 +6,6 @@
 * [⚠️ 2. Estilo Embutido (Embedded)](#-Estilo-Embutido-Embedded)
 * [📍 3. Estilo Externo (External)](#-Estilo-Externo-(External))
 * [📋 4. Estilo Importado (Import)](#-requisitos-funcionais)
-* [📍 Requisitos não-funcionais](#-requisitos-não-funcionais)
 *  [✅ Conclusão](#-conclusão)
 
   ## 🎯 Objetivo
